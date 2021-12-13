@@ -114,3 +114,7 @@
     flex-direction: column;
   }
 }
+
+.custom {
+  font-size: 24px;
+}
