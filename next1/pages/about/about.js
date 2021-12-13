@@ -1,6 +1,11 @@
+import Link from "next/link";
+import Nav from "../components/Nav";
 function About() {
     return (
-        <div>关于我们</div>
+        <>
+            <Nav />
+            <div>关于我们</div>
+        </>
     );
 }
 

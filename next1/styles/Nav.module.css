@@ -1,0 +1,9 @@
+.nav {
+    display: flex;
+}
+.nav li {
+    margin: 0 10px;
+}
+.nav li a{
+    color: #f20;
+}
